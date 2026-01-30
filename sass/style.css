@@ -1672,7 +1672,7 @@ table {
 }
 .news figure img {
   display: block;
-  max-width: 100%;
+  width: 100%;
 }
 .news .date {
   font-size: 18px;
